@@ -17,6 +17,7 @@ main_page_head = '''
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
     <style type="text/css" media="screen">
+
         body {
             padding-top: 80px;
         }
@@ -107,10 +108,11 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">The Greats Movie Trailers</a>
+            <a class="navbar-brand" href="#">Check out these movies</a>
           </div>
         </div>
       </div>
+      
     </div>
     <div class="container">
       {movie_tiles}
