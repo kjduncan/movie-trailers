@@ -4,8 +4,13 @@ Movie Trailer Project for Udacity
 **Movie-Trailers** Displays movie trailers for users to browse and allows users to view trailers in modal windows. 
 
 ## How to Run
-Download python on your computer. https://www.python.org/downloads/
+**Installing Python**
+https://www.python.org/downloads/
 
-Open files using Idle. 
+Follow the steps in the python installer
 
-Run module.
+**Open files using Idle.**
+cd to directory where file is stored
+
+To run the file, run this command in terminal
+$ python ./entertainment_center.py
