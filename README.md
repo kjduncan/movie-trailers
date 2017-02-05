@@ -10,6 +10,7 @@ https://www.python.org/downloads/
 Follow the steps in the python installer
 
 **Open files using Idle.**
+
 cd to directory where file is stored
 
 To run the file, run this command in terminal
